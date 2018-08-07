@@ -1,0 +1,57 @@
+  h1{
+    color:DeepPink;
+  }
+  h2{
+    color:DeepPink;
+  }
+  h3{
+    color:DeepPink;
+  }
+  h4{
+    color:DeepPink;
+  }
+  h5{
+    color:DeepPink;
+  }
+  h6{
+    color:DeepPink
+  }
+
+
+body{
+  background-color: LightCyan;
+  color: #555555;
+  font-family: Arial, Helvetica, sans-sans-serif;
+
+  font-size:12px;
+  font-weight: normal;
+
+  line-height: 1.6em;
+
+
+}
+p{
+  font-size: large;
+  color: LightSkyBlue;
+}
+
+a:hover{
+  color: red;
+}
+a{
+  text-decoration: none;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.button{
+  background-color: #E95FE2;
+  color: #ffffff;
+  padding:10px 15px;
+  border: none;
+}
+.button:hover{
+  background: #AF43B9;
+  color: white;
+}
